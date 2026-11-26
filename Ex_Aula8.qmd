@@ -1,0 +1,10 @@
+---
+title: "Ex_Aula8"
+format: html
+---
+
+#dlgsafaad/
+
+```{r}
+hist(rnorm(1000))
+```
